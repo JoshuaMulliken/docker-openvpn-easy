@@ -1,5 +1,10 @@
 # Easy OpenVPN Docker Connector
 
+| Repository                                            | Purpose |
+| ----------------------------------------------------- | ------- |
+| https://git.sr.ht/~joshmulliken/docker-openvpn-easy   | Primary |
+| https://github.com/JoshuaMulliken/docker-openvpn-easy | Mirror  |
+
 This project is designed to provide an easy way to allow your containers to connect to resources that are behind a VPN.
 
 Most other projects that I could find online used config files other than the default `.ovpn` format so I created this to pass in the `.ovpn` and ask for credentials.
