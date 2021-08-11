@@ -1,5 +1,7 @@
 # Easy OpenVPN Docker Connector
 
+[Main Project Page](https://sr.ht/~joshmulliken/docker-openvpn-easy/): Repo, Mailing List, and Issue Tracking.
+
 | Repository                                            | Purpose |
 | ----------------------------------------------------- | ------- |
 | https://git.sr.ht/~joshmulliken/docker-openvpn-easy   | Primary |
@@ -39,3 +41,7 @@ docker run -d --net=container:openvpn-easy -v /path/to/znc-cfg:/znc-data znc
 The key part is `--net=container:openvpn-easy` which tells docker to utilize the network of the other container so that you can access resources that are behind a vpn from another container.
 
 _I personally use this to access an irc server that is behind a vpn to provide a bouncer on a server so that I can get my messages on my laptop when I log back on every day._
+
+## Contributing
+
+Interested in contributing through sourcehut? Checkout [this intro](https://git-send-email.io) to `git send-email` or feel free to use the GitHub repo.
