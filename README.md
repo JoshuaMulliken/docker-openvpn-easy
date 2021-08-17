@@ -1,3 +1,9 @@
+<!-- 
+SPDX-FileCopyrightText: 2020 Joshua Mulliken <joshua@mulliken.net>
+
+SPDX-License-Identifier: MIT
+-->
+
 # Easy OpenVPN Docker Connector
 
 [Main Project Page](https://sr.ht/~joshmulliken/docker-openvpn-easy/): Repo, Mailing List, and Issue Tracking.

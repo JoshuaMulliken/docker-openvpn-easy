@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2020 Joshua Mulliken <joshua@mulliken.net>
+# 
+# SPDX-License-Identifier: MIT
+
 #!/bin/bash
 
 echo "Easy OpenVPN container for connecting containers to services behind a VPN"

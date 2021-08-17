@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2020 Joshua Mulliken <joshua@mulliken.net>
+#
+# SPDX-License-Identifier: MIT
+
 FROM ubuntu:20.04
 
 RUN apt-get update
