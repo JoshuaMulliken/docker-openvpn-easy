@@ -1,8 +1,7 @@
+#!/bin/bash
 # SPDX-FileCopyrightText: 2021 Joshua Mulliken <joshua@mulliken.net>
 # 
 # SPDX-License-Identifier: MIT
-
-#!/bin/bash
 
 rm -f /root/auth
 
